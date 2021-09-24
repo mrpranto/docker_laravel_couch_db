@@ -1,4 +1,4 @@
-### run docker command
+### Run docker command
 
 ```
 docker-compose up -d
